@@ -24,6 +24,7 @@ header {
 	padding: 7px;
     margin: 15px;
     background-color: rgb(150,210,255);
+    border: 1px rgb(70,70,70);
     border-radius: 12px;
     box-shadow: 4px 4px 3px rgb(70,70,70);
     width: 500px;
